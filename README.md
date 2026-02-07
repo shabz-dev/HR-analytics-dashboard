@@ -17,8 +17,8 @@ The dashboard enables HR teams to make data-driven decisions through clear and d
 ---
 
 ## 📈 Key Insights
-- Overall Attrition Rate: XX%
-- Highest Attrition Department: XXX
+- Overall Attrition Rate
+- Highest Attrition Department
 - Average Salary Distribution by Role
 - Gender Ratio Analysis
 - Experience vs Performance Trend
